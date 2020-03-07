@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JaKi</string>
+    <string name="home">Beranda</string>
+    <string name="education">Edukasi</string>
+    <string name="report">Lapor</string>
+    <string name="activities">Aktivitas</string>
+    <string name="profile">Profil</string>
+    <string name="halo">Halo, </string>
+    <string name="username">Renaldi Arlin</string>
+    <string name="title_activity_navigate">Map</string>
+    <string name="search_hint">Ketik lokasi tujuan anda di sini ...</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBNjwONeMeSBEs1f5y-N4PWC2Zv7PHyY40</string>
+
+</resources>
