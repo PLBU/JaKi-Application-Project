@@ -8,22 +8,6 @@
     android:background="@color/colorAccent"
     tools:context=".Activities.MainActivity">
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:clickable="true"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/bottomNavigationView"
-        app:elevation="72dp"
-        app:borderWidth="0dp"
-        app:fabCustomSize="56dp"
-        app:maxImageSize="56dp"
-        app:backgroundTint="#00FFFFFF"
-        app:srcCompat="@drawable/btn_lapor_package" />
-
     <fragment
         android:id="@+id/navHostFragment"
         android:name="androidx.navigation.fragment.NavHostFragment"
