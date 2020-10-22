@@ -3,5 +3,15 @@ JaKi application is a traffic safety platform that intended for people to report
 
 ## Google Product that is used:
 1. Android
+To build the app using Android Studio and as the OS Platform for the mobile app.
 2. Google Maps API
+To visualize current location of the device, destinations, routes, etc.
 3. Google Places API
+To get the details info, such as lat & lng of the places that is search.
+
+## Gooogle Product that will be used
+4. Google Directions API
+To see the possible routes from current location to the destination
+5. Google Account Linking
+For authentication flow, user info, etc
+6. Other products that will be useful later
