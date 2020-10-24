@@ -1,6 +1,10 @@
 # JaKi-Application-Project
 JaKi application is a traffic safety platform that intended for people to report traffic violance by capturing the proof and sending it to police server. This project however is still ongoing, the last feature added was auto suggestion search for the maps inside.
 
+## To Run this Project
+1. Open the cloned project in Android Studio
+2. Run it
+
 ## Google Product that is used:
 1. Android <br/>
 To build the app using Android Studio and as the OS Platform for the mobile app.
@@ -15,3 +19,6 @@ To see the possible routes from current location to the destination
 5. Google Account Linking <br/>
 For authentication flow, user info, etc
 6. Other products that will be useful later
+
+### Notes
+Google API Key used in here is just a dummy key, please use your own API Key
